@@ -269,11 +269,11 @@ function App() {
                         </div>
                         
                         <div className="flex items-center space-x-8">
-                          <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300 flex items-center space-x-2">
+                          <a href="https://tradingintent.com/IntentWhitepaperV1.0.1.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300 flex items-center space-x-2">
                             <FileText className="w-4 h-4" />
-                            <span>Terms</span>
+                            <span>Whitepaper</span>
                           </a>
-                          <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300 flex items-center space-x-2">
+                          <a href="https://x.com/TradingIntent" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300 flex items-center space-x-2">
                             <Mail className="w-4 h-4" />
                             <span>Contact</span>
                           </a>
